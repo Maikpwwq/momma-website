@@ -1,0 +1,61 @@
+{
+  "maintitle": "Mumma delight - Postres",
+  "storetitle": "Reposteria Momma",
+  "description": "Ofrecemos deliciosos postres, Regala un detalle que endulce el corazón y, <br> Robate los suspiros con las mejores preparaciones.",
+  "welcometitle": "Bienvenido de nuevo",
+  "message": "Tenemos el postre ideal para cada paladar, se libre de escoger desde ingredientes a procesos. <br> Convencidos de ofrecer lo mejor en calidad y sabor, competimos respaldados en las mejores materias primas, tecnicas y ..",
+  "postres":[
+    {
+      "title":"Torta de Yogut Griego con helado",
+      "description": "Torta de Yogut Griego con helado",
+      "url":""
+    },
+    {
+      "title":"Mantecadas",
+      "description": "Mantecadas",
+      "url":""
+    },    
+    {
+      "title":"Arroz de leche",
+      "description": "Arroz de leche",
+      "url":""
+    },
+    {
+      "title":"Esponjado de Maracuya",
+      "description": "Esponjado de Maracuya",
+      "url":""
+    },
+    {
+      "title":"Gelatina de colores",
+      "description": "Gelatina de colores",
+      "url":""
+    }
+  ],
+  "destacados":[
+    {
+      "title":"Torta de Yogut Griego con helado",
+      "description": "Torta de Yogut Griego con helado",
+      "url":""
+    },
+    {
+      "title":"Mantecadas",
+      "description": "Mantecadas",
+      "url":""
+    },    
+    {
+      "title":"Arroz de leche",
+      "description": "Arroz de leche",
+      "url":""
+    },
+    {
+      "title":"Esponjado de Maracuya",
+      "description": "Esponjado de Maracuya",
+      "url":""
+    },
+    {
+      "title":"Gelatina de colores",
+      "description": "Gelatina de colores",
+      "url":""
+    }
+  ]
+}
